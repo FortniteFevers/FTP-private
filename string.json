@@ -1,8 +1,8 @@
 {
-  1: "Thank you for using TweetPoster - Created by Fevers.",
-  2: "",
-  3: "Most recent update is on: 11/9/2020",
-  4: "The most recent update includes; "Fixed errors with search command, leaks command, aes command, and news command.",
-  5: "",
-  currentVersion: "1.0.5"
+    1: "Thank you for using TweetPoster - Created by Fevers.",
+    2: "",
+    3: "Most recent update is on: 11/9/2020",
+    4: "The most recent update includes; "Fixed errors with search command, leaks command, aes command, and news command.",
+    5: "",
+    currentVersion: "1.0.5"
 }
